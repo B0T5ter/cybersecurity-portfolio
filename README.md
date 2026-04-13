@@ -1,10 +1,13 @@
 # CyberSecurity Dashboard
 
----
 
-Stats & Achievements
+## Stats & Achievements
 
-* **Pentests:** [liczba wykonanych przezemnie pentestów do wpisania]
-* **Analyzed Cases:** [liczba wykonanych przezemnie analiz do wpisania]
+* **Pentests:** 2
+* **Analyzed Cases:** 0
 
----
+
+## Certificates
+
+* ✅ **Google Cybersecurity Professional Certificate** (Completed)
+* ⏳ **Microsoft Cybersecurity Analyst Specialization** (In Progress)
