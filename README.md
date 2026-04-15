@@ -4,7 +4,7 @@
 ## Stats & Achievements
 
 * **Pentests:** 2
-* **Analyzed Cases:** 0
+* **Analyzed Cases:** 1
 
 
 ## Certificates
