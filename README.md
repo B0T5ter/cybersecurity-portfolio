@@ -3,7 +3,7 @@
 
 ## Stats & Achievements
 
-* **Pentests:** 2
+* **Pentests:** 4
 * **Analyzed Cases:** 4
 
 
